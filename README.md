@@ -1,7 +1,7 @@
 # Tableau de bord Analytique des Incidents de sécurité à la SNCF en 2023
 
 
-[Tableau de bord SNCF.pdf](https://github.com/user-attachments/files/17139698/Tableau.de.bord.SNCF.pdf)
+![Tableau de bord SNCF_page-0001](https://github.com/user-attachments/assets/0dd089d8-b0a1-412c-ad9a-b085d908b1e5)
 
 
 Dans ce projet, je développe un tableau de bord interactif sous Power Bi pour analyser les incidents de sécurité à la SNCF en 2023. 
