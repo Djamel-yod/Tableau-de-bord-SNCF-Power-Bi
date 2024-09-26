@@ -49,7 +49,7 @@ La base de données que nous avons exploitée est disponible sur le site opendat
 
 ## Outils
 
-<img width="391" alt="Capture_Python2" src="https://github.com/Djamel-yod/Prediction-co2-France/assets/60408184/66deb372-f524-4d96-b982-7c7c39d8943b">
+<img width="165" alt="Capture_PowerBI" src="https://github.com/Djamel-yod/Power-BI--Segmentation-des-ventes/assets/60408184/f5cb5c53-8158-4943-9eb2-06b6252d9515">
 
 
 <a href="#">#Power Bi</a>
